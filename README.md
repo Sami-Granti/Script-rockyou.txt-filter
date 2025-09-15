@@ -1,7 +1,7 @@
-# 🔍 rockyouFilter.py
+# rockyouFilter.py
 
 Um script Python que filtra uma wordlist rockyou.txt(ou outras com encoding=Latin-1) por palavras de um tamanho específico.
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Filtra palavras por tamanho exato de caracteres
 - Manipula encoding Latin-1 (formato do rockyou.txt)
