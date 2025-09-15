@@ -22,4 +22,4 @@ cd /usr/share/wordlists/
 
 sudo gunzip rockyou.txt.gz
 
-Quando rodar o script com: 'python rockyouFilter', use como arquivo de leitura a seguinte string '/usr/share/wordlists/rockyou.txt'.\n
+Quando rodar o script com: 'python rockyouFilter', use como arquivo de leitura a seguinte string '/usr/share/wordlists/rockyou.txt'.
